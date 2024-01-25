@@ -1,7 +1,7 @@
 # Context API with React
 
 <h1>Technologies Used</h1>
-<img src="https://github.com/mesubasi/Context-Api-with-React/assets/88106043/42e30405-32c4-4afe-9f60-ad4b5dfd4eb3" />
+<img src="" />
 <br>
 <ul>
   <li>Bootstrap</li>
